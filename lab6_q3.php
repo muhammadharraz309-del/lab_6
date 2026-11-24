@@ -14,5 +14,13 @@ function calculateArea($width, $height) {
     return $area;
 }
 
+$width = 4;
+$height = 2;
+
+$result = calculateArea($width, $height);
+
+echo "The area of a rectangle with $width and $height is $result";
+
+?>
 </body>
 </html>
