@@ -21,6 +21,7 @@ $result = calculateArea($width, $height);
 
 echo "The area of a rectangle with $width and $height is $result";
 
+
 ?>
 </body>
 </html>
